@@ -1,0 +1,7 @@
+{
+  "name": "NutriVision AI",
+  "description": "Instant caloric estimation and food analysis using advanced computer vision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
